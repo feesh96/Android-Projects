@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OpenRoom</string>
+    <string-array name="Institutions">
+        <item>Virginia Tech</item>
+        <item>University of Virginia</item>
+        <item>James Madision University</item>
+    </string-array>
+    <string-array name="Buildings">
+        <item>Surge Hall</item>
+        <item>Burruss Hall</item>
+        <item>McBryde Hall</item>
+    </string-array>
+    <string-array name="orderBy">
+        <item>Distance</item>
+        <item>Capacity</item>
+        <item>Open Seats</item>
+        <item>Room Number</item>
+    </string-array>
+</resources>

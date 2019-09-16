@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Build-a-Burger</string>
+    <string-array name="PattyTypes">
+        <item>Beef</item>
+        <item>Grilled Chicken</item>
+        <item>Turkey</item>
+        <item>Salmon</item>
+        <item>Veggie</item>
+    </string-array>
+</resources>
